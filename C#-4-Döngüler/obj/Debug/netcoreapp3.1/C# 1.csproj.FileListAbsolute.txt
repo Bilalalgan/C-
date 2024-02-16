@@ -1,0 +1,65 @@
+C:\Users\bilal\OneDrive\Masaüstü\Udemy\Web Udemy\.Net Core C#\C# 1\bin\Debug\netcoreapp3.1\C# 1.exe
+C:\Users\bilal\OneDrive\Masaüstü\Udemy\Web Udemy\.Net Core C#\C# 1\bin\Debug\netcoreapp3.1\C# 1.deps.json
+C:\Users\bilal\OneDrive\Masaüstü\Udemy\Web Udemy\.Net Core C#\C# 1\bin\Debug\netcoreapp3.1\C# 1.runtimeconfig.json
+C:\Users\bilal\OneDrive\Masaüstü\Udemy\Web Udemy\.Net Core C#\C# 1\bin\Debug\netcoreapp3.1\C# 1.runtimeconfig.dev.json
+C:\Users\bilal\OneDrive\Masaüstü\Udemy\Web Udemy\.Net Core C#\C# 1\bin\Debug\netcoreapp3.1\C# 1.dll
+C:\Users\bilal\OneDrive\Masaüstü\Udemy\Web Udemy\.Net Core C#\C# 1\bin\Debug\netcoreapp3.1\C# 1.pdb
+C:\Users\bilal\OneDrive\Masaüstü\Udemy\Web Udemy\.Net Core C#\C# 1\obj\Debug\netcoreapp3.1\C# 1.csprojAssemblyReference.cache
+C:\Users\bilal\OneDrive\Masaüstü\Udemy\Web Udemy\.Net Core C#\C# 1\obj\Debug\netcoreapp3.1\C# 1.AssemblyInfoInputs.cache
+C:\Users\bilal\OneDrive\Masaüstü\Udemy\Web Udemy\.Net Core C#\C# 1\obj\Debug\netcoreapp3.1\C# 1.AssemblyInfo.cs
+C:\Users\bilal\OneDrive\Masaüstü\Udemy\Web Udemy\.Net Core C#\C# 1\obj\Debug\netcoreapp3.1\C# 1.csproj.CoreCompileInputs.cache
+C:\Users\bilal\OneDrive\Masaüstü\Udemy\Web Udemy\.Net Core C#\C# 1\obj\Debug\netcoreapp3.1\C# 1.dll
+C:\Users\bilal\OneDrive\Masaüstü\Udemy\Web Udemy\.Net Core C#\C# 1\obj\Debug\netcoreapp3.1\C# 1.pdb
+C:\Users\bilal\OneDrive\Masaüstü\Udemy\Web Udemy\.Net Core C#\C# 1\obj\Debug\netcoreapp3.1\C# 1.genruntimeconfig.cache
+C:\Users\bilal\OneDrive\Masaüstü\Udemy\Web Udemy\.Net Core C#\C#-1-Veri Yapıları\bin\Debug\netcoreapp3.1\C# 1.exe
+C:\Users\bilal\OneDrive\Masaüstü\Udemy\Web Udemy\.Net Core C#\C#-1-Veri Yapıları\bin\Debug\netcoreapp3.1\C# 1.deps.json
+C:\Users\bilal\OneDrive\Masaüstü\Udemy\Web Udemy\.Net Core C#\C#-1-Veri Yapıları\bin\Debug\netcoreapp3.1\C# 1.runtimeconfig.json
+C:\Users\bilal\OneDrive\Masaüstü\Udemy\Web Udemy\.Net Core C#\C#-1-Veri Yapıları\bin\Debug\netcoreapp3.1\C# 1.runtimeconfig.dev.json
+C:\Users\bilal\OneDrive\Masaüstü\Udemy\Web Udemy\.Net Core C#\C#-1-Veri Yapıları\bin\Debug\netcoreapp3.1\C# 1.dll
+C:\Users\bilal\OneDrive\Masaüstü\Udemy\Web Udemy\.Net Core C#\C#-1-Veri Yapıları\bin\Debug\netcoreapp3.1\C# 1.pdb
+C:\Users\bilal\OneDrive\Masaüstü\Udemy\Web Udemy\.Net Core C#\C#-1-Veri Yapıları\obj\Debug\netcoreapp3.1\C# 1.csprojAssemblyReference.cache
+C:\Users\bilal\OneDrive\Masaüstü\Udemy\Web Udemy\.Net Core C#\C#-1-Veri Yapıları\obj\Debug\netcoreapp3.1\C# 1.AssemblyInfoInputs.cache
+C:\Users\bilal\OneDrive\Masaüstü\Udemy\Web Udemy\.Net Core C#\C#-1-Veri Yapıları\obj\Debug\netcoreapp3.1\C# 1.AssemblyInfo.cs
+C:\Users\bilal\OneDrive\Masaüstü\Udemy\Web Udemy\.Net Core C#\C#-1-Veri Yapıları\obj\Debug\netcoreapp3.1\C# 1.csproj.CoreCompileInputs.cache
+C:\Users\bilal\OneDrive\Masaüstü\Udemy\Web Udemy\.Net Core C#\C#-1-Veri Yapıları\obj\Debug\netcoreapp3.1\C# 1.dll
+C:\Users\bilal\OneDrive\Masaüstü\Udemy\Web Udemy\.Net Core C#\C#-1-Veri Yapıları\obj\Debug\netcoreapp3.1\C# 1.pdb
+C:\Users\bilal\OneDrive\Masaüstü\Udemy\Web Udemy\.Net Core C#\C#-1-Veri Yapıları\obj\Debug\netcoreapp3.1\C# 1.genruntimeconfig.cache
+C:\Users\bilal\OneDrive\Masaüstü\Udemy\Web Udemy\.Net Core C#\C#-2-Operatörler\bin\Debug\netcoreapp3.1\C# 1.exe
+C:\Users\bilal\OneDrive\Masaüstü\Udemy\Web Udemy\.Net Core C#\C#-2-Operatörler\bin\Debug\netcoreapp3.1\C# 1.deps.json
+C:\Users\bilal\OneDrive\Masaüstü\Udemy\Web Udemy\.Net Core C#\C#-2-Operatörler\bin\Debug\netcoreapp3.1\C# 1.runtimeconfig.json
+C:\Users\bilal\OneDrive\Masaüstü\Udemy\Web Udemy\.Net Core C#\C#-2-Operatörler\bin\Debug\netcoreapp3.1\C# 1.runtimeconfig.dev.json
+C:\Users\bilal\OneDrive\Masaüstü\Udemy\Web Udemy\.Net Core C#\C#-2-Operatörler\bin\Debug\netcoreapp3.1\C# 1.dll
+C:\Users\bilal\OneDrive\Masaüstü\Udemy\Web Udemy\.Net Core C#\C#-2-Operatörler\bin\Debug\netcoreapp3.1\C# 1.pdb
+C:\Users\bilal\OneDrive\Masaüstü\Udemy\Web Udemy\.Net Core C#\C#-2-Operatörler\obj\Debug\netcoreapp3.1\C# 1.csprojAssemblyReference.cache
+C:\Users\bilal\OneDrive\Masaüstü\Udemy\Web Udemy\.Net Core C#\C#-2-Operatörler\obj\Debug\netcoreapp3.1\C# 1.AssemblyInfoInputs.cache
+C:\Users\bilal\OneDrive\Masaüstü\Udemy\Web Udemy\.Net Core C#\C#-2-Operatörler\obj\Debug\netcoreapp3.1\C# 1.AssemblyInfo.cs
+C:\Users\bilal\OneDrive\Masaüstü\Udemy\Web Udemy\.Net Core C#\C#-2-Operatörler\obj\Debug\netcoreapp3.1\C# 1.csproj.CoreCompileInputs.cache
+C:\Users\bilal\OneDrive\Masaüstü\Udemy\Web Udemy\.Net Core C#\C#-2-Operatörler\obj\Debug\netcoreapp3.1\C# 1.dll
+C:\Users\bilal\OneDrive\Masaüstü\Udemy\Web Udemy\.Net Core C#\C#-2-Operatörler\obj\Debug\netcoreapp3.1\C# 1.pdb
+C:\Users\bilal\OneDrive\Masaüstü\Udemy\Web Udemy\.Net Core C#\C#-2-Operatörler\obj\Debug\netcoreapp3.1\C# 1.genruntimeconfig.cache
+C:\Users\bilal\OneDrive\Masaüstü\Udemy\Web Udemy\.Net Core C#\C#-3-Koşul İfadeleri\bin\Debug\netcoreapp3.1\C# 1.exe
+C:\Users\bilal\OneDrive\Masaüstü\Udemy\Web Udemy\.Net Core C#\C#-3-Koşul İfadeleri\bin\Debug\netcoreapp3.1\C# 1.deps.json
+C:\Users\bilal\OneDrive\Masaüstü\Udemy\Web Udemy\.Net Core C#\C#-3-Koşul İfadeleri\bin\Debug\netcoreapp3.1\C# 1.runtimeconfig.json
+C:\Users\bilal\OneDrive\Masaüstü\Udemy\Web Udemy\.Net Core C#\C#-3-Koşul İfadeleri\bin\Debug\netcoreapp3.1\C# 1.runtimeconfig.dev.json
+C:\Users\bilal\OneDrive\Masaüstü\Udemy\Web Udemy\.Net Core C#\C#-3-Koşul İfadeleri\bin\Debug\netcoreapp3.1\C# 1.dll
+C:\Users\bilal\OneDrive\Masaüstü\Udemy\Web Udemy\.Net Core C#\C#-3-Koşul İfadeleri\bin\Debug\netcoreapp3.1\C# 1.pdb
+C:\Users\bilal\OneDrive\Masaüstü\Udemy\Web Udemy\.Net Core C#\C#-3-Koşul İfadeleri\obj\Debug\netcoreapp3.1\C# 1.csprojAssemblyReference.cache
+C:\Users\bilal\OneDrive\Masaüstü\Udemy\Web Udemy\.Net Core C#\C#-3-Koşul İfadeleri\obj\Debug\netcoreapp3.1\C# 1.AssemblyInfoInputs.cache
+C:\Users\bilal\OneDrive\Masaüstü\Udemy\Web Udemy\.Net Core C#\C#-3-Koşul İfadeleri\obj\Debug\netcoreapp3.1\C# 1.AssemblyInfo.cs
+C:\Users\bilal\OneDrive\Masaüstü\Udemy\Web Udemy\.Net Core C#\C#-3-Koşul İfadeleri\obj\Debug\netcoreapp3.1\C# 1.csproj.CoreCompileInputs.cache
+C:\Users\bilal\OneDrive\Masaüstü\Udemy\Web Udemy\.Net Core C#\C#-3-Koşul İfadeleri\obj\Debug\netcoreapp3.1\C# 1.dll
+C:\Users\bilal\OneDrive\Masaüstü\Udemy\Web Udemy\.Net Core C#\C#-3-Koşul İfadeleri\obj\Debug\netcoreapp3.1\C# 1.pdb
+C:\Users\bilal\OneDrive\Masaüstü\Udemy\Web Udemy\.Net Core C#\C#-3-Koşul İfadeleri\obj\Debug\netcoreapp3.1\C# 1.genruntimeconfig.cache
+C:\Users\bilal\OneDrive\Masaüstü\Udemy\Web Udemy\.Net Core C#\C#-4-Döngüler\bin\Debug\netcoreapp3.1\C# 1.exe
+C:\Users\bilal\OneDrive\Masaüstü\Udemy\Web Udemy\.Net Core C#\C#-4-Döngüler\bin\Debug\netcoreapp3.1\C# 1.deps.json
+C:\Users\bilal\OneDrive\Masaüstü\Udemy\Web Udemy\.Net Core C#\C#-4-Döngüler\bin\Debug\netcoreapp3.1\C# 1.runtimeconfig.json
+C:\Users\bilal\OneDrive\Masaüstü\Udemy\Web Udemy\.Net Core C#\C#-4-Döngüler\bin\Debug\netcoreapp3.1\C# 1.runtimeconfig.dev.json
+C:\Users\bilal\OneDrive\Masaüstü\Udemy\Web Udemy\.Net Core C#\C#-4-Döngüler\bin\Debug\netcoreapp3.1\C# 1.dll
+C:\Users\bilal\OneDrive\Masaüstü\Udemy\Web Udemy\.Net Core C#\C#-4-Döngüler\bin\Debug\netcoreapp3.1\C# 1.pdb
+C:\Users\bilal\OneDrive\Masaüstü\Udemy\Web Udemy\.Net Core C#\C#-4-Döngüler\obj\Debug\netcoreapp3.1\C# 1.csprojAssemblyReference.cache
+C:\Users\bilal\OneDrive\Masaüstü\Udemy\Web Udemy\.Net Core C#\C#-4-Döngüler\obj\Debug\netcoreapp3.1\C# 1.AssemblyInfoInputs.cache
+C:\Users\bilal\OneDrive\Masaüstü\Udemy\Web Udemy\.Net Core C#\C#-4-Döngüler\obj\Debug\netcoreapp3.1\C# 1.AssemblyInfo.cs
+C:\Users\bilal\OneDrive\Masaüstü\Udemy\Web Udemy\.Net Core C#\C#-4-Döngüler\obj\Debug\netcoreapp3.1\C# 1.csproj.CoreCompileInputs.cache
+C:\Users\bilal\OneDrive\Masaüstü\Udemy\Web Udemy\.Net Core C#\C#-4-Döngüler\obj\Debug\netcoreapp3.1\C# 1.dll
+C:\Users\bilal\OneDrive\Masaüstü\Udemy\Web Udemy\.Net Core C#\C#-4-Döngüler\obj\Debug\netcoreapp3.1\C# 1.pdb
+C:\Users\bilal\OneDrive\Masaüstü\Udemy\Web Udemy\.Net Core C#\C#-4-Döngüler\obj\Debug\netcoreapp3.1\C# 1.genruntimeconfig.cache
