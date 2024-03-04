@@ -1,0 +1,6 @@
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Buyuk_Sayiyi_Bulan_Program\Buyuk_Sayiyi_Bulan_Program\bin\Debug\Buyuk_Sayiyi_Bulan_Program.exe.config
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Buyuk_Sayiyi_Bulan_Program\Buyuk_Sayiyi_Bulan_Program\bin\Debug\Buyuk_Sayiyi_Bulan_Program.exe
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Buyuk_Sayiyi_Bulan_Program\Buyuk_Sayiyi_Bulan_Program\bin\Debug\Buyuk_Sayiyi_Bulan_Program.pdb
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Buyuk_Sayiyi_Bulan_Program\Buyuk_Sayiyi_Bulan_Program\obj\Debug\Buyuk_Sayiyi_Bulan_Program.csprojResolveAssemblyReference.cache
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Buyuk_Sayiyi_Bulan_Program\Buyuk_Sayiyi_Bulan_Program\obj\Debug\Buyuk_Sayiyi_Bulan_Program.exe
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Buyuk_Sayiyi_Bulan_Program\Buyuk_Sayiyi_Bulan_Program\obj\Debug\Buyuk_Sayiyi_Bulan_Program.pdb

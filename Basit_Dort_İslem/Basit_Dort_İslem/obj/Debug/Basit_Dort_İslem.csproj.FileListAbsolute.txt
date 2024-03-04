@@ -1,0 +1,13 @@
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Basit_Dort_İslem\Basit_Dort_İslem\bin\Debug\Basit_Dort_İslem.exe.config
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Basit_Dort_İslem\Basit_Dort_İslem\obj\Debug\Basit_Dort_İslem.csprojResolveAssemblyReference.cache
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Basit_Dort_İslem\Basit_Dort_İslem\bin\Debug\Basit_Dort_İslem.exe
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Basit_Dort_İslem\Basit_Dort_İslem\bin\Debug\Basit_Dort_İslem.pdb
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Basit_Dort_İslem\Basit_Dort_İslem\obj\Debug\Basit_Dort_İslem.exe
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Basit_Dort_İslem\Basit_Dort_İslem\obj\Debug\Basit_Dort_İslem.pdb
+D:\Dersler\yazılım ile ilgili\ATILANLAR\Basit_Dort_İslem\Basit_Dort_İslem\bin\Debug\Basit_Dort_İslem.exe.config
+D:\Dersler\yazılım ile ilgili\ATILANLAR\Basit_Dort_İslem\Basit_Dort_İslem\bin\Debug\Basit_Dort_İslem.exe
+D:\Dersler\yazılım ile ilgili\ATILANLAR\Basit_Dort_İslem\Basit_Dort_İslem\bin\Debug\Basit_Dort_İslem.pdb
+D:\Dersler\yazılım ile ilgili\ATILANLAR\Basit_Dort_İslem\Basit_Dort_İslem\obj\Debug\Basit_Dort_İslem.csprojAssemblyReference.cache
+D:\Dersler\yazılım ile ilgili\ATILANLAR\Basit_Dort_İslem\Basit_Dort_İslem\obj\Debug\Basit_Dort_İslem.csproj.CoreCompileInputs.cache
+D:\Dersler\yazılım ile ilgili\ATILANLAR\Basit_Dort_İslem\Basit_Dort_İslem\obj\Debug\Basit_Dort_İslem.exe
+D:\Dersler\yazılım ile ilgili\ATILANLAR\Basit_Dort_İslem\Basit_Dort_İslem\obj\Debug\Basit_Dort_İslem.pdb

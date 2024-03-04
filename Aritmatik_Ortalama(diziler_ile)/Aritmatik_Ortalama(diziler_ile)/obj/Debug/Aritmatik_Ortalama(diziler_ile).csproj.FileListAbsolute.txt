@@ -1,0 +1,13 @@
+D:\ÜNİVERSİTE DERS İNDİRİLENLER\Programlama Tekniklerine Giriş\ÖDEV\ödev 9\Aritmatik_Ortalama(diziler_ile)\Aritmatik_Ortalama(diziler_ile)\bin\Debug\Aritmatik_Ortalama(diziler_ile).exe.config
+D:\ÜNİVERSİTE DERS İNDİRİLENLER\Programlama Tekniklerine Giriş\ÖDEV\ödev 9\Aritmatik_Ortalama(diziler_ile)\Aritmatik_Ortalama(diziler_ile)\obj\Debug\Aritmatik_Ortalama(diziler_ile).csprojResolveAssemblyReference.cache
+D:\ÜNİVERSİTE DERS İNDİRİLENLER\Programlama Tekniklerine Giriş\ÖDEV\ödev 9\Aritmatik_Ortalama(diziler_ile)\Aritmatik_Ortalama(diziler_ile)\bin\Debug\Aritmatik_Ortalama(diziler_ile).exe
+D:\ÜNİVERSİTE DERS İNDİRİLENLER\Programlama Tekniklerine Giriş\ÖDEV\ödev 9\Aritmatik_Ortalama(diziler_ile)\Aritmatik_Ortalama(diziler_ile)\bin\Debug\Aritmatik_Ortalama(diziler_ile).pdb
+D:\ÜNİVERSİTE DERS İNDİRİLENLER\Programlama Tekniklerine Giriş\ÖDEV\ödev 9\Aritmatik_Ortalama(diziler_ile)\Aritmatik_Ortalama(diziler_ile)\obj\Debug\Aritmatik_Ortalama(diziler_ile).exe
+D:\ÜNİVERSİTE DERS İNDİRİLENLER\Programlama Tekniklerine Giriş\ÖDEV\ödev 9\Aritmatik_Ortalama(diziler_ile)\Aritmatik_Ortalama(diziler_ile)\obj\Debug\Aritmatik_Ortalama(diziler_ile).pdb
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Aritmatik_Ortalama(diziler_ile)\Aritmatik_Ortalama(diziler_ile)\bin\Debug\Aritmatik_Ortalama(diziler_ile).exe.config
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Aritmatik_Ortalama(diziler_ile)\Aritmatik_Ortalama(diziler_ile)\bin\Debug\Aritmatik_Ortalama(diziler_ile).exe
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Aritmatik_Ortalama(diziler_ile)\Aritmatik_Ortalama(diziler_ile)\bin\Debug\Aritmatik_Ortalama(diziler_ile).pdb
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Aritmatik_Ortalama(diziler_ile)\Aritmatik_Ortalama(diziler_ile)\obj\Debug\Aritmatik_Ortalama(diziler_ile).csprojAssemblyReference.cache
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Aritmatik_Ortalama(diziler_ile)\Aritmatik_Ortalama(diziler_ile)\obj\Debug\Aritmatik_Ortalama(diziler_ile).csproj.CoreCompileInputs.cache
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Aritmatik_Ortalama(diziler_ile)\Aritmatik_Ortalama(diziler_ile)\obj\Debug\Aritmatik_Ortalama(diziler_ile).exe
+D:\Dersler\yazılım ile ilgili\GitHub Projeleri\Aritmatik_Ortalama(diziler_ile)\Aritmatik_Ortalama(diziler_ile)\obj\Debug\Aritmatik_Ortalama(diziler_ile).pdb
